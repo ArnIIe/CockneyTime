@@ -1,4 +1,4 @@
-# Repo to house my first pebble apps/watchfaces
+# Cockney Time (one of my first pebble watchfaces)
 
 C is a brand new language for me, so feel free to utilise my codebase but know that it is not written by a taught C programmer and code will not be efficient.
 
